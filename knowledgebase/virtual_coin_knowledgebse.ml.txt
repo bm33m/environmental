@@ -1,0 +1,13 @@
+id      code      name      network       price      date      time      currency
+# 1,    APT,      Aptos,     Aptos,
+# 2,    SUI,
+# 3,    GUI,
+# 4,    BIT,
+# 5,    ETH,
+# 6,    USDC,
+# 7,    APT,
+# 8,    SUI,
+# 9,    GUI,
+# 10,   BIT,
+# 11,   ETH,
+# 12,   USDC,

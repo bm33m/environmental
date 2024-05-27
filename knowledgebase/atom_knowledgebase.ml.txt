@@ -1,0 +1,9 @@
+code   name          description                            valence_electrons atomic_number atomic_mass
+# Si,   Silicon,     Intrinsic semiconductor material,      4,                14,           28,
+# Ge,   Germanium,   Intrinsic semiconductor material,      4,                32,           73,
+# Sb,   Antimony,    extrinsic ntype material substance,    5,                51,           122,
+# As,   Arsonic,
+# P,    Phosphorus,
+# B,    Boron,       extrinsic ptype material substance,    3,                5,             11,
+# Ga,   Gallium,
+# In,   Indium,
